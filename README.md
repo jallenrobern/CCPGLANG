@@ -64,7 +64,7 @@ Each test covers one or more grammar features.
 |---------|------|------------------|
 | Bernabe, Jan Allen | Project Lead / Documentation Head | Led the team by assigning tasks and managing timelines, oversaw project development progress, prepared and formatted the design documentation, and ensured the completeness of deliverables. |
 | Labasan, Jessa Mae | System Developer / Analyzer Implementer | Developed the full PAN Analyzer program, implemented the lexer, parser, and syntax validation logic, and conducted debugging and testing to ensure analyzer accuracy and stability. |
-| Tiu, Christian Harold | Concept Designer / Grammar Architect | Originated the core concept of Cook++, designed the BNF grammar structure, formulated the language use cases, and defined the syntax and semantics of the language. |
+| Tiu, Christian Harold | Concept Designer / Grammar Architect | Originated the core concept of Cook++, designed the BNF grammar structure, formulated the language use cases, defined the syntax and semantics of the language, and organized the overall presentation (PPT) structure. |
 
 ---
 
