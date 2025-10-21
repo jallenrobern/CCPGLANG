@@ -79,5 +79,5 @@ You can view our full design documentation for **Cook++ and the PAN Analyzer** h
 
 Developed for the **Programming Languages** course — Final Project.  
 **Instructor:** Ms. Armida P. Salazar  
-**Institution:** National University  
+**Institution:** National University - Manila
 **Semester:** S.Y. 2025 - 2026
