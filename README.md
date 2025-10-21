@@ -58,6 +58,13 @@ Each test covers one or more grammar features.
 
 ---
 
+## 📄 Documentation
+
+You can view our full design documentation for **Cook++ and the PAN Analyzer** here:  
+👉 [View Documentation](./Cook++_Documentation.pdf)
+
+---
+
 ## 👨‍🍳 Roles of Members 
 
 | Member | Role | Responsibilities |
@@ -74,4 +81,3 @@ Developed for the **Programming Languages** course — Final Project.
 **Instructor:** Ms. Armida P. Salazar  
 **Institution:** National University  
 **Semester:** S.Y. 2025 - 2026
-"""
